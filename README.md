@@ -6,6 +6,8 @@
 
 Smart Duck is a plugin for WebStorm and other JetBrains IDEs. A small light-blue robot walks along the bottom of your code. It reads over your shoulder, dances, naps and scans the screen. When an error shows up, it gets angry and goes after the bug with a laser or a rocket flight.
 
+![Smart Duck walking in the editor](docs/demo.gif)
+
 ![Smart Duck poses](docs/poses.png)
 
 ## The story
