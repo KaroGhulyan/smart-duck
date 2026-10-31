@@ -1,4 +1,6 @@
-# 🦆 Smart Duck
+# Smart Duck
+
+<img src="docs/icon.png" width="96" alt="Smart Duck icon">
 
 **A tiny retro pixel-art duck robot that lives at the bottom of your editor and hunts your bugs.**
 
@@ -61,7 +63,7 @@ Open the [Releases](https://github.com/KaroGhulyan/smart-duck/releases) page and
 
 ### 3. Meet the duck
 
-Open any code file. The duck walks in along the bottom of the editor. 🦆
+Open any code file. The duck walks in along the bottom of the editor.
 
 - To hide or show it: **Tools → Toggle Smart Duck**
 - To see it hunt a bug, type something broken (for example an unclosed bracket) and wait a second.
